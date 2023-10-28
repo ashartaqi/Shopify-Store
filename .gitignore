@@ -1,0 +1,56 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local development settings
+.env
+instance/
+
+# Flask specific
+*.pyc
+*.pyo
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py~
+*.db
+
+# Logs
+*.log
+logs/
+
+# Database
+db.sqlite
+db.sqlite3
+
+# Virtual environment
+venv/
+__venv__/
+env/
+ENV/
+
+# IDE (e.g., PyCharm) configuration
+.idea/
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Ignore JSON file
+credentials.json
